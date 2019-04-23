@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=/ 
+game= Plus Music | /play
+stayinchannel=true
+songinstatus=false
+token=NTcwMTc2MzY5ODcxMjkwMzY5.XL7YRQ.sh9hBtur4j_FXuQpT0_Kl1KIhKM
